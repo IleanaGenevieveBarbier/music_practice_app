@@ -1,8 +1,7 @@
-# - Une application qui t'aide à étudier ton instrument
+# Tsuki - Une application qui t'aide à étudier ton instrument
 
 ## But de l'application
-Notre application mobile est destinée aux musiciens qui veulent améliorer leur régularité et leur efficacité pendant l'étude de leur instrument.
-Le but est d'avoir une aide simple pour pouvoir: 
+Le but de notre application est d'avoir une aide simple pour pouvoir: 
 - Organiser et suivre chaque séance d'étude
 - Ajouter ton répertoires ainsi que les observations faites par le professeur et tous les détails pour chaque morceau dans un espace de notes (journal)
 - Avoir un espace de statistique pour pouvoir analyser ton progrès
